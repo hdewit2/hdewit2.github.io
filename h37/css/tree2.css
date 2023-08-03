@@ -1,0 +1,24 @@
+span.tplus, span.tminus, span.tna, span.tcontr, span.terror { font-size:11px !important; }
+span.tplus { background-color: lightgreen; color: darkgreen; padding:1px 3px 1px 3px; }
+span.tminus { background-color: red; color: #f2f2f2; padding:1px 3px 1px 3px; }
+span.tna { background-color: darkgray; color: #f2f2f2; padding:1px 3px 1px 3px; }
+span.tcontr { background-color: yellow; padding:1px 3px 1px 3px; }
+span.terror { background-color: brown; color: #f2f2f2; padding:1px 3px 1px 3px; }
+span.a, span.A { background:lightgreen; font-size:11px !important; color: darkgreen; padding:1px 3px 1px 3px; }
+span.t, span.T { background:red; font-size:11px !important; color: #f2f2f2; padding:1px 3px 1px 3px; }
+span.c, span.C { background:#0054A6; font-size:11px !important; color: #f2f2f2; padding:1px 3px 1px 3px; }
+span.g, span.G { background:#E8640C; font-size:11px !important; color: #f2f2f2; padding:1px 3px 1px 3px; }
+span.n, span.N { background:darkgray; font-size:11px !important; color: #f2f2f2; padding:1px 3px 1px 3px; }
+span.DEL { background:#E6E5E1; font-size:11px !important; color: #f2f2f2; padding:1px 3px 1px 3px; }
+span.INDEL { background:#E6E5E1; font-size:11px !important; color: #999999; padding:1px 3px 1px 3px; }
+span.X, span.R, span.Y, span.K, span.M, span.S, span.W, span.B, pan.D, span.H, span.V { background:orange; font-size:11px !important; color: #f2f2f2; padding:1px 3px 1px 3px; }
+.na, .strforsample, .alternate, .mutation { background:lightgreen !important; color: darkgreen !important; border-left: 3px solid #f2f2f2 !important; font-wight:normal !important; margin:0px !important; padding:0 4px 0 4px !important; }
+.strforsample { font-size: 11px; }
+.alternate { background-color: brown !important; color: #cccccc !important; }
+.na { font-size: 11px; color:#777777 !important; background:#cccccc !important; }
+.strforhg { border-left: 3px solid #f2f2f2 !important; background:lightgreen !important; color: darkgreen !important; padding: 0 3px 0 3px; }
+.mutation { background:orange !important; }
+.yf-tree-block { padding:15px 0 0 0; margin:0; background:#f2f2f2; }
+.arh-node { background:green; color:#f2f2f2; padding: 1px 3px 1px 3px; font-size: 12px; text-decoration:none; }
+.arh-node:hover { background: #F6C800; color: #363636; }
+.yfullcom-tree { margin: 10px 10px 10px 6px !important; }
