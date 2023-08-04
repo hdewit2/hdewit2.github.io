@@ -1,7 +1,5 @@
 # Projects
 
-1. [Mitochondrial DNA](mtdna)
-
 ## Mitochondrial DNA
 
 Mitochondrial DNA is passed from mother to all her children. Only daughters will pass it on to their children. As such it is a unique tracer of ancestry the matrilineal line. Occasional mutations act like bread-crumbs along this time-line and can highlight inter-relationshipss and branching patterns of descendant lines. 
