@@ -9,6 +9,8 @@ show_downloads: false
 color-scheme: auto
 
 sidebar:
+  - name: Home
+    link: /
   - name: mtDNA
     link: /mtdna
   - name: CFS Maps
