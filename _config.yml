@@ -1,4 +1,15 @@
 theme: jekyll-theme-minimal
 logo: /assets/img/logo.png
-title: Hank's World
-description: A list of my public projects
+title: Hank de Wit
+description: ""
+email: hdewit at people net au
+blank_title: true
+favicon: true
+show_downloads: false
+color-scheme: auto
+
+sidebar:
+  - name: mtDNA
+    link: /mtdna
+  - name: CFS Maps
+    link: /cfs_map/geographic_converter.shtml
