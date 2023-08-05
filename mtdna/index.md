@@ -1,8 +1,8 @@
 # Contents
 
-  * [Mitochondrial DNA](#Mitochondrial DNA)
-  * [My Haplogroup - H37](#My Haplogroup - H37)
-    * [My construction of H37](#My construction of H37)
+  * [Mitochondrial DNA](#mitochondrial-dna)
+  * [My Haplogroup - H37](#my-haplogroup---h37)
+    * [My construction of H37](#my-construction-of-h37)
 	
 ---
 
