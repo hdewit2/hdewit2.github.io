@@ -1,4 +1,9 @@
-# Projects
+# Blogs
 
-1. [Mitochondrial DNA](mtdna)
-2. [CFS Map](./cfs_map/geographic_converter.shtml)
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
