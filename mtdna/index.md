@@ -1,6 +1,16 @@
+# Index
+
+  * [Mitochondrial DNA](Mitochondrial DNA)
+  * [My Haplogroup - H37](My Haplogroup - H37)
+    * [My construction of H37](My construction of H37)
+
 ## Mitochondrial DNA
 
-Mitochondrial DNA is passed from mother to all her children. Only daughters will pass it on to their children. As such it is a unique tracer of ancestry the matrilineal line. Occasional mutations act like bread-crumbs along this time-line and can highlight inter-relationshipss and branching patterns of descendant lines. 
+### How is it inherited
+
+Mitochondrial DNA is passed from the mother to each of her children, male and female. Only daughters will pass it on to their children. As such it is a unique tracer of ancestry along the matrilineal line. Occasional mutations act like bread-crumbs along this time-line and can highlight inter-relationships and branching patterns of descendant lines. 
+
+### What are Haplogroups
 
 Genetic studies have revealed the major branches from our common female ancestor, some 200,000 years ago. The major branching points have been given names in the form of letters, "A", "B", "C", etc. Subseqent sub-branches are named using the convention of alternating numbers and letters. An example would be H2a1, which indicates three further branching points below the primary haplogroup H. The complete set of branches from the inferred original mtDNA sequence is called the Phylotree. 
 
