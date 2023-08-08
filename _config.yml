@@ -3,10 +3,19 @@ logo: /assets/img/logo.png
 title: Hank de Wit
 description: ""
 email: hdewit at people net au
+url: https://hdewit2.github.io/
 blank_title: true
 favicon: true
 show_downloads: false
 color-scheme: auto
+remote_theme: pages-themes/minimal@v0.2.0
+
+plugins:
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
+  - jekyll-remote-theme
 
 sidebar:
   - name: Home
@@ -18,3 +27,13 @@ sidebar:
   - name: CFS Maps
     icon: <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="currentColor" role="img" style="vertical-align:-0.125em;" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"> <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"/> </svg>
     link: /cfs_map/geographic_converter.shtml
+
+# https://github.com/github/pages-gem/issues/399#issuecomment-301827749
+# When running locally, we run into the following error —
+# GitHub Metadata: No GitHub API authentication could be found. Some fields may be missing or have incorrect data.
+# adding this avoids it
+github: [metadata]
+
+cdn:
+  jsdelivr:
+    enabled: true

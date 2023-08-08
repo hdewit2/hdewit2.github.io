@@ -1,0 +1,41 @@
+The cfs_map_book.txt file is a mapping of georeferencing information from the SA CFS
+Map Book. 
+
+Columns are:
+
+1. CFS Map Number
+2. ATM Zone number
+3. Northing minumum for the map
+4. Northing maximum for the map
+5. Easting minumum for the map
+6. Easting maximum for the map
+
+The formula for generating eastings and northings from this is:
+
+User provides MapNo and MapRef, say "74" and "897467"
+
+From MapNo we identify the ZoneNo, then:
+
+// We extract the relevant easting and northing information from the MapRef, ie E=89.7, N=46.7
+easting_cut = Math.floor(MapRef/1000)/10;
+northing_cut = (MapRef - Math.floor(MapRef/1000)*1000)/10;
+if (easting_cut<50)
+{
+  easting_offset = cfs_map_book[MapNo][3];
+}
+else
+{
+  easting_offset = cfs_map_book[MapNo][4];
+}
+if (northing_cut<50)
+{
+  northing_offset = cfs_map_book[MapNo][2];
+}
+else
+{
+  northing_offset = northing_offset2;
+}
+easting = (easting_cut + easting_offset*100)*1000;      // 689700
+northing = (northing_cut + northing_offset*100)*1000;   // 6046700
+
+using the easting, northing and ZoneNo we can calculate the lon/lat ( 137.09687, -35.7054 )

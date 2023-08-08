@@ -1,0 +1,26 @@
+body { margin:20px 0; background: #ffffff; }
+
+.c-fl, .ag-img, #drawer-toggle, #drawer-toggle-label, #inf-m, #left-sidebar, #user, #admin-panel, .download, .yloci-view, #header, #l-dis, #prp-dis, #footer, .note, #hrefplot, .note4, .note4-1 { display:none !important; }
+
+.dys-h, .dys-a_empty, .alt { text-shadow:none; background:#ffffff; }
+
+.dys-h, .dys-a_empty, .dys-a { border: 1px solid #ffffff; }
+
+.alt { border: 1px solid #cccccc; }
+
+.block { border:0px; }
+
+#tbl-header tr td, #content, #top { background:#ffffff; }
+
+#tbl-header table { border-bottom:2px solid #000000; }
+
+.logo { color:#777777; }
+
+#content { padding:0px; }
+#yhg { color:black !important; border:0px !important; }
+.ys-img, .pm-img, .vcfm { display:none; }
+span.new { color:black !important; }
+.snp-tbl tr td { border:1px solid #cccccc; }
+#menu li a, #menu .active { border:0px !important; }
+.yhg2 { color:#000000; }
+.yf-s-name { color:#000000 !important; }
