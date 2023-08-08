@@ -3,7 +3,7 @@ logo: /assets/img/logo.png
 title: Hank de Wit
 description: ""
 email: hdewit at people net au
-url: https://hdewit2.github.io/
+url: https://hdewit2.github.io
 blank_title: true
 favicon: true
 show_downloads: false
@@ -36,4 +36,4 @@ github: [metadata]
 
 cdn:
   jsdelivr:
-    enabled: true
+    enabled: false
