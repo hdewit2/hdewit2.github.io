@@ -14,7 +14,7 @@ Mitochondrial DNA is passed from the mother to each of her children, male and fe
 
 ### What are Haplogroups
 
-Genetic studies have revealed the major branches from our common female ancestor, some 200,000 years ago. The major branching points have been given names in the form of letters, "A", "B", "C", etc. Subseqent sub-branches are named using the convention of alternating numbers and letters. An example would be H2a1, which indicates three further branching points below the primary haplogroup H. The complete set of branches from the inferred original mtDNA sequence is called the Phylotree. 
+Genetic studies have revealed the major branches from our common female ancestor, some 200,000 years ago. The major branching points have been given names in the form of letters, "A", "B", "C", etc. Subsequent sub-branches are named using the convention of alternating numbers and letters. An example would be H2a1, which indicates three further branching points below the primary haplogroup H. The complete set of branches from the inferred original mtDNA sequence is called the Phylotree. 
 
 ## My Haplogroup - H37
 

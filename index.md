@@ -9,9 +9,9 @@ This web-site exists to mostly explore my H37 mtDNA branch and for other members
 # Blog
 
 <ul>
-  {% for post in site.posts %}
+  {% for post in site.posts reversed %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ post.url }}"> {{ post.date | date: '%Y/%m/%d' }} - {{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>

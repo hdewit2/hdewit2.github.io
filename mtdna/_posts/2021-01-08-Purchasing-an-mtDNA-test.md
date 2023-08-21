@@ -47,8 +47,16 @@ So ideally you'd like a handful of GD0 matches. If they have a common origin the
 
 ## Where can get an mtDNA Test?
 
-You can purchase an [mtComplete]( {{ page.YSEQmtComplete }} ) test at YSEQ but there is no _matching service_ at YSEQ. You can to upload your resulting FASTA file to YFull for an extra $US25 to get a matching service and have YFull add you anonymously to their [MTree]( {{ page.yfullm }} ).
+### YSEQ
 
-Currently the best mtDNA test is with [Family Tree DNA (FTDNA)]( {{ page.FTDNA }} ) where they will match your results with other tests on their database that have a difference of less than four mutations with you. You will be added anonymously to their public [MTree]( {{ page.FTDNAm }} ). You can also upload to YFull to get the benefits of their interpretive service. I would encourage this as YFull are still the only company adding new branches to the mtDNA phylotree.
+You can purchase an [mtComplete]( {{ page.YSEQmtComplete }} ) test at YSEQ but there is no _matching service_ at YSEQ. However, you can then upload your resulting FASTA file to [YFull]( {{ page.yfull }} ) for an extra $US25 to get a matching service and have YFull add you anonymously to their [MTree]( {{ page.yfullm }} ). 
 
-The mtDNA test at [23&me]( {{ page.twentythreeandme }} ) is not a full-sequence test. 23&me test a selection of positions (SNPs) of the mt-chromosome and use this to predict your Haplogroup. The predictions are fairly accurate for the most part. However 23&me do not use the latest phylotree for their Haplogroup assignment, and this can cause them to assign Haplogroups that have changed or even been deleted. For example, in my own case the 2011 version of the phylotree had a H37 Haplogroup, but this was later dropped and no H37 exists on the official [phylotree]( {{ page.phylotree }} ). 23&me cannot provide you with your extra mutations, which would be of mot ue to you in family tree research. Haplogroups alone are of little use. 23&me also can't provide you with any matches.
+### FTDNA
+
+Currently the best mtDNA test is with [Family Tree DNA (FTDNA)]( {{ page.FTDNA }} ) where they will match your results with other tests on their database that have a difference of less than four mutations with you. You will be added anonymously to their public [MTree]( {{ page.FTDNAm }} ). FTDNA currently have the biggest database of mtDNA samples to match against.
+
+You can also subsequently upload your FASTA file to [YFull]( {{ page.yfull }} ) to get the benefits of their interpretive service. I would encourage this as YFull are still the only company adding new branches to the mtDNA phylotree. For the **H37** Haplogroup this would improved the dating of **H37** in the [MTree]( {{ page.yfullm }}.
+
+### 23&me
+
+The mtDNA test at [23&me]( {{ page.twentythreeandme }} ) is not a full-sequence test. 23&me test a selection of positions (SNPs) of the mt-chromosome and use this to predict your Haplogroup. The predictions are fairly accurate for the most part. However 23&me do not use the latest phylotree for their Haplogroup assignment, and this can cause them to assign Haplogroups that have changed or even been deleted. For example, in my own case the 2011 version of the phylotree had a **H37** Haplogroup, but this was later dropped and no **H37** exists on the official [phylotree]( {{ page.phylotree }} ). 23&me cannot provide you with your extra mutations, which would be of mot ue to you in family tree research. Haplogroups alone are of little use. 23&me also can't provide you with any matches.
