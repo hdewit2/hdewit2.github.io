@@ -20,9 +20,13 @@ The tell was built up over aeons by the original farmer peoples who came to the 
 
 ![Yamnaya Movements](/mtdna/assets/img/yamnaya_movements.png)
 
-However around 4000-5000 years ago these farmer tell settlements were largely abandoned and a new people from the pontic steppe (Ukraine) began to penetrate the region. These people had a more mobile pastoral mode of living and rode horses. They are associated with the Yamnaya culture. At first they probably launched minor raids into the region stealing property and perhaps wives before displacing the original inhabitants. The necropolis of 78 graves and a wealth of grave goods lies just a couple of hundred meters to the SE, just on the other side of the Sazlyka River which flows past the eastern edge of the tell. There is an excellent [YouTube drone video](https://www.youtube.com/watch?v=QSd38mO4_KE) of Bereket. Unfortunately an animal feed store has been built just to the east of the tell which you can see on this video. The necropolis would have been located right at the rear of the store complex.
+However around 4000-5000 years ago these farmer tell settlements were largely abandoned and a new people from the pontic steppe (Ukraine) began to penetrate the region. These people had a more mobile pastoral mode of living and rode horses. They are associated with the Yamnaya culture. At first they probably launched minor raids into the region stealing property and perhaps wives before displacing the original inhabitants. 
 
 ![Map of Bereketska Mogila](/mtdna/assets/img/tell_map.png)
+
+The necropolis of 78 graves and a wealth of grave goods lies just a couple of hundred meters to the SE, just on the other side of the Sazlyka River which flows past the eastern edge of the tell. There is an excellent [YouTube drone video](https://www.youtube.com/watch?v=QSd38mO4_KE) of Bereket. Unfortunately an animal feed store has been built just to the east of the tell which you can see on this video. The necropolis would have been located right at the rear of the store complex. In this Google Maps image below the necropolis would have been in the lower right of the image and the mound is just left of center.
+
+![Bereketska Mogila Google Maps](/mtdna/assets/img/bereketska_google_map.png)
 
 The two **H37a** individuals were in the graves **BM-3** and **BM-73** and their mtDNA was reported in the 2019 paper "Ancient human mitochondrial genomes from Bronze Age Bulgaria: new insights into the genetic history of Thracians" by Modi, A., Nesheva, D., Sarno, S. et al. The paper misidentifies the Haplogroups of the two individuals (in my opinion), **H3ak** for **BM-3** and **H76a** for **BM-73**. The full mtDNA can be found in the GenBank and have been uploaded to YFull. YFull has placed them in **H37** as I do, though we disagree on the exact sub-groups. 
 
