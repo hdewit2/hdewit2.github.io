@@ -21,7 +21,7 @@ With the increasing access to full-sequence mtDNA data in the mid-2000's the res
 
 ## YFull
 
-The independant DNA Analysis company YFull who are normally known for their YTree have also undertaken to dynamically extend the standard phylotree. Their version of the tree is at [www.yfull.com/mtree](https://www.yfull.com/mtree/). Newer branches are highlighted in light green, or orange for low confidence branches. YFull also add ancient DNA samples to their *mtree*. They also provide estimates of the age of a branch.
+The independent DNA Analysis company YFull who are normally known for their YTree have also undertaken to dynamically extend the standard phylotree. Their version of the tree is at [www.yfull.com/mtree](https://www.yfull.com/mtree/). Newer branches are highlighted in light green, or orange for low confidence branches. YFull also add ancient DNA samples to their *mtree*. They also provide estimates of the age of a branch.
 
 ## SNPTracker
 
