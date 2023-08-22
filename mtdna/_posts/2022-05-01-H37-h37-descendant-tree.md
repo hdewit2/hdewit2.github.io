@@ -17,9 +17,16 @@ I keep my usual family tree on [MyHeritage](https://www.myheritage.com/) .Howeve
 
 For my own line this was very apparent. My ancestral line from 1630 to 1870 lived in Leiden. Family sizes in the early half of that period were fairly small, becoming much larger during the 1700's. However the death rate was very high, particularly in the 1800's. There were many cholera outbreaks in the City due to pollution of the canal system. In the earlier period Leiden had managed its sewerage problem with cess-pits and an army of men (called 'nightmen') to maintain them. In the 17th century, for 'efficiency' the system was switched to sewer pipes which emptied into the canals. With a rising population this was a recipe for disaster. The story is colorfully described in [this issue of Archaeology](https://www.archaeology.org/issues/327-1901/letter-from/7205-letter-from-leiden). As a result I could only identify two direct female lines (apart from my own) that made it to the present. In my own line survival of H37 looks promising as I have a number of female cousins, and second cousins who have daughters. However the small family sizes from the second half of the 20th century has taken it's toll, and the number of H37 females has been declining.
 
-Many of my matches in the US and Canada appear to have descended from a small number of early French immigrants to "New France". 
+The "H37 Descendant" tree can be found [here](https://www.myheritage.com/site-family-tree-12002121/paridaens-de-wit?rootIndividualID=13500817)
+
+No living individuals names will appear.
+
+Use the search dialog to find people. Type "Ancestor" to find current identified ancestors, or the Haplogroup name, eg "H37b2" to find known descendant lines of your branch.
 
 ![New France](https://d3d0lqu00lnqvz.cloudfront.net/media/media/83a4a542-c31c-4393-8ec9-eb4ddec38948.jpg)
+
+Many of my matches in the US and Canada appear to have descended from a small number of early French immigrants to "New France". 
+
 
 Building down from some of these ancestors has produced a large tree of possible H37 descendants. It has also helped my place some more recent matches without those matches having large family trees.
 
