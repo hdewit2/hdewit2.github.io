@@ -1,4 +1,4 @@
-# About
+# About Me
 
 My current interests are in Genealogy, but particularly DNA. Mitochondrial DNA (mtDNA) and Y-Chromosome (YDNA) Haplogroups are the areas of most interest. My YDNA terminal SNP is [I-Y70065](https://discover.familytreedna.com/y-dna/I-Y70065/tree), which is a branch of the I1 Haplogroup, and my mtDNA is [H](http://scaledinnovation.com/gg/snpTracker.html?snp=H&mt&tab=SNPs). 
 
@@ -6,7 +6,7 @@ My DNA was tested by the company Family Tree DNA (FTDNA) and they do an excellen
 
 This web-site exists to mostly explore my H37 mtDNA branch and for other members of H37 to read. I will also include some YDNA information, but there is less happening on that front.
 
-# Blog
+# mtDNA Haplogroup H37 Blog
 
 <ul>
   {% for post in site.posts reversed %}

@@ -27,3 +27,12 @@ However since that phylotree was published more full-sequence has become availab
 1. [H37 without mutation details](../h37/h37.html)
 2. [H37 showing mutations](../h37/h37_complex.html)
 
+### mtDNA Haplogroup H37 Blog
+
+<ul>
+  {% for post in site.posts reversed %}
+    <li>
+      <a href="{{ post.url }}"> {{ post.date | date: '%Y/%m/%d' }} - {{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Useful Resources of your mtDNA researches"
+title: "Useful Resources for your mtDNA researches"
 author: Hank de Wit
 published: true
 category: dna
