@@ -45,9 +45,11 @@ The web address of the Project is [https://www.familytreedna.com/groups/mtdna-hs
 
 Only the basic information about a sample is publicly listed. The only link to the user is their *Kit Number*. Here is the line on the Project's Results Page for my sample. ![sample results row](/mtdna/assets/img/sample_results_row.png) As you can see no coding region mutations are publically available. The Administrators will be able to see them if you set the permissions for it.
 
+You can chat with the Administrators and other Project members through the Projects [activity feed](https://www.familytreedna.com/groups/mtdna-hstar/activity-feed). This feed is not available to non-members.
+
 ## How to join the H Subclade Discovery Project
 
-To be in the **H Subclade Discovery Project** you need to have tested with a full-sequence mtDNA test at FTDNA and be in the H Haplogroup or any of it's branches. You also need to first join the **H&HV Project group**. You also need to be sharing all of your mtDNA data.
+To be in the **H Subclade Discovery Project** you need to have tested with a full-sequence mtDNA test at FTDNA and be in the H Haplogroup or any of it's branches. You also need to first join the **H&HV Project group**. You also need to be sharing your mtDNA data if you want to get anything out of joining.
 
 ### Basic Sharing
 
