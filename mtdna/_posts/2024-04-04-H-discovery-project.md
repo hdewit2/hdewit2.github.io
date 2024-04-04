@@ -80,7 +80,7 @@ If you don't know this information, just click "I don't know this information". 
 
 ### Using the H Subclade Discovery Project
 
-1. Go to the [Project Results](https://www.familytreedna.com/public/mtdna_hstar?iframe=mtresults) page
+1. Go to the [Project Results](https://www.familytreedna.com/groups/mtdna-hstar/dna-results) page
 1. Click on the **Results** link of the page and it will take you to a table showing all the members of the group and their mtDNA details. The table by default only shows a small selection but you can change the page size.
 1. Set the **Page Size** to **2500** and click on the search icon (magnifying glass). The listing should now contain everyone in the Project, so you just need to find the H37 group.
 1. Use your web browsers *Search in page* function to search for **H37b**.
@@ -91,7 +91,7 @@ There are already six people there at the time I'm writing this. As more of our 
 
 You can also use the Projects Map result.
 
-1. Go to the [Project Results](https://www.familytreedna.com/public/mtdna_hstar?iframe=mtresults) page
+1. Go to the [Project Results](https://www.familytreedna.com/groups/mtdna-hstar/dna-results) page
 1. Click on the **Map** link of the page and it will take you to a page showing a map of the world.
 1. There is a "pick list" a the top of the map. Click on it and select the option **H37b - (proposed by de Wit, not official) - A3505G, A13748G**. Pins will appear on the map for the H37 people in the project that have also set the location of their earliest maternal ancestor (see the Basic Sharing section). ![map results page](/mtdna/assets/img/map_results_page.png)
 
