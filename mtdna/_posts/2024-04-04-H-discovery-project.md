@@ -15,6 +15,19 @@ twentythreeandme: https://customercare.23andme.com/hc/en-us/articles/212880257-M
 
 ![CoverArt](/mtdna/assets/img/ai-generated-8544595.png)
 
+  * [Introduction](#introduction)
+  * [How will being 'official' help our H37 branch?](#how-will-being-official-help-our-h37-branch)
+  * [About the H Subclade Discovery Project](#about-the-h-subclade-discovery-project)
+  * [How to join the H Subclade Discovery Project](#how-to-join-the-h-subclade-discovery-project)
+    * [Basic Sharing](#basic-sharing)
+	* [Join the H and HV mtDNA Hg Project](#join-the-h-and-hv-mtdna-hg-project)
+	* [Join the H Subclade Discovery Project](#join-the-h-subclade-discovery-project)
+  * [Using the H Subclade Discovery Project](#using-the-h-subclade-discovery-project)
+    * [Results Table](#results-table)
+	* [Results Map](#results-map)
+	* [Activity feed](#activity-feed)
+  * [Leaving a Project](#leaving-a-project)
+
 ## Introduction
 
 On Family Tree DNA (FTDNA) mtDNA Haplogroups are currently assigned according to the standard Phylotree. This is a fixed tree, completed in 2016, but based on data to 2012.
@@ -25,7 +38,7 @@ I personally think that these more recently discovered sub-clades are rarer in g
 
 Family Tree DNA has started a project, called the **Million Mito Project**, which aims to take advantage of all the more recent mtDNA tests and update the Phylotree, thus making our H37 branch official (albeit with a different name). [YFull](https://www.yfull.com) already does this, but their database is only a fraction of FTDNA. 
 
-## How will being 'offocial' help our H37 branch?
+## How will being official help our H37 branch
 
 Our H37 branch was identified and named by YFull some years ago. On YFull there are only fifteen examples of H37, seven of them are research or medical samples. On FTDNA I have sixty matches who would all be in H37. There will be others that are in H37 but are invisible to me because too many mutations would separate us. A difference of four mutations is enough too exclude someone as a match. So FTDNA is sitting on roughly ten times more data than is currently available to YFull.
 
@@ -80,9 +93,9 @@ If you don't know this information, just click "I don't know this information". 
 1. Go to your [Project Preferences](https://www.familytreedna.com/my/project-preferences) page, click on the pencil icon to the right of the **H Subclade Discovery Project**.
 1. In the pop-up window scroll down and, at the bottom of the page, ensure all the Administrators have **Advanced** permissions and at the bottom ensure that future Administrators will be granted **Advanced** permissions.
 
-### Using the H Subclade Discovery Project
+## Using the H Subclade Discovery Project
 
-#### Results Table
+### Results Table
 
 1. Go to the [Project Results](https://www.familytreedna.com/groups/mtdna-hstar/dna-results) page
 1. Click on the **Results** link of the page and it will take you to a table showing all the members of the group and their mtDNA details. The table by default only shows a small selection but you can change the page size.
@@ -93,7 +106,7 @@ You should see a listing like this. ![H Discovery Results Page](/mtdna/assets/im
 
 There are already six people there at the time I'm writing this. As more of our H37 matches join the project this list will grow.
 
-#### Results Map
+### Results Map
 
 You can also use the Projects Map result.
 
@@ -101,10 +114,10 @@ You can also use the Projects Map result.
 1. Click on the **Map** link of the page and it will take you to a page showing a map of the world.
 1. There is a "pick list" a the top of the map. Click on it and select the option **H37b - (proposed by de Wit, not official) - A3505G, A13748G**. Pins will appear on the map for the H37 people in the project that have also set the location of their earliest maternal ancestor (see the Basic Sharing section). ![map results page](/mtdna/assets/img/map_results_page.png)
 
-#### Activity feed
+### Activity feed
 
 Chat with the Administrators and other Project members through the Projects [activity feed](https://www.familytreedna.com/groups/mtdna-hstar/activity-feed).
 
-### Leaving a Project
+## Leaving a Project
 
 At any stage you can leave these Projects by visiting your [Project Preferences](https://www.familytreedna.com/my/project-preferences), locating the Project and clicking on the trash can/rubbish bin icon.
