@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "H Subclade Discovery Project"
+title: "Join the H Subclade Discovery Project"
 author: Hank de Wit
 published: true
 category: dna
@@ -120,4 +120,4 @@ Chat with the Administrators and other Project members through the Projects [act
 
 ## Leaving a Project
 
-At any stage you can leave these Projects by visiting your [Project Preferences](https://www.familytreedna.com/my/project-preferences), locating the Project and clicking on the trash can/rubbish bin icon.
+At any stage you can leave these Projects by visiting your [Project Preferences](https://www.familytreedna.com/my/project-preferences) page, locating the Project and clicking on the trash can/rubbish bin icon.
