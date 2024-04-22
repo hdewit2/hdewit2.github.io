@@ -30,7 +30,7 @@ twentythreeandme: https://customercare.23andme.com/hc/en-us/articles/212880257-M
 
 ## Introduction
 
-**A THANK YOU NOTE** As of 22 April 2024 the number of us H37b's on the H Hiscovery Project has increased to 10, and I'd like to thank those that have joined following this post.
+> **A THANK YOU NOTE** As of 22 April 2024 the number of us H37b's on the H Hiscovery Project has increased to 10, and I'd like to thank those that have joined following this post.
 
 On Family Tree DNA (FTDNA) mtDNA Haplogroups are currently assigned according to the standard Phylotree. This is a fixed tree, completed in 2016, but based on data to 2012.
 
