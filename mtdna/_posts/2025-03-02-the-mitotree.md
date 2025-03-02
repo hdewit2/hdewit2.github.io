@@ -63,4 +63,19 @@ This table summarises the differences:
 | H37b4	| T4216C | H37b3a | C12043T	|
 | H37b4* | A73G! C12043T | H37b3a1 | A73G! T4216C |
 		
+## The Discover Tool
+
+The **FTDNA** Discover Tool is modelled after the tool of the same name for their YDNA Y700 customers. It has a lot of useful information.
+
+The [Haplogroup Story](https://discover.familytreedna.com/mtdna/H37/story){:target="_blank"} page gives a general summary of H37, ie there are currently 85 testers in the FTDNA database designated as H37. It also provides links to the two sub-branches [H37a](https://discover.familytreedna.com/mtdna/H37a/story){:target="_blank"} and [H37b](https://discover.familytreedna.com/mtdna/H37b/story){:target="_blank"} where you can drill down further. For example, under H37b, you'll find there are 80 testers below this branch and the only descendant branch is [H37b3](https://discover.familytreedna.com/mtdna/H37b3/story){:target="_blank"}.
+
+The *Country Frequency* page will finally give us a better picture of the distribution of our matches. While we were in H the country frequency maps were useless.
+
+The *Notable Connections* and *Ancient Connections* pages are unfortunately still of limited use as they take us to connections in other branches of H. We knoew there are two ancient matches under H37a. This should improve with time.
+
+The *Time Tree* is only of use if you drill down a bit. It tries to show a time tree of all the branching in our Haplogroup. This bring up another issue. The dates shown are not realistic, they are far too young. For example, the Mitotree has **H** as originating 6859 BCE. It should be something like 16000 BCE. All the dates of the branches of H will be affected by this and be far too young as a consequence. This is a reminder that the Mitotree is still "Beta". Errors like this will be ironed out.
+
+The *Match Time Tree* page is meant to show a similar thing but with just your matches. This doesn't work for me yet as FTDNA have not yet assigned my Mitotree Haplogroup yet.
+
+The *Classic Tree* page is, to me, a much better way to view our tree.
 
