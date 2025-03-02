@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The FTDNA Mitoree"
+title: "The FTDNA Mitotree"
 author: Hank de Wit
 published: true
 category: dna
